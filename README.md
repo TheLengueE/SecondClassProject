@@ -4,7 +4,7 @@
 以及核心的对数据进行展示的web网站等
 
 # 创造者
-TheLenguE
+TheLengueE
 
 # 开发环境
 visual studio2022    python3.9   .NET6.0
